@@ -1,14 +1,14 @@
-# Monty_Hall_simulation
+# Blog: Monty_Hall_simulation
 
 #### -- Project Status: [Completed]
 
 ## Project Description
-We are trying to solve the Monty_Hall by different methods: probability, Bayesian formula,  python.
+Solving the Monty Hall by different methods: probability, Bayesian formula, and Monte Carlo.
 
-For the python part, we generate the simulation with 10000 trials to approach the exact statistical result.  
+The jupyter notebook using Monte Carlo methods to generate the simulation with 10000 trials to approach the exact statistical result. 
 
-## Visualization and details
-Please visit https://dev.to/williamhuybui and find the Monty Problem post
+## Blog link
+The link can be found [here](https://dev.to/williamhuybui/monty-hall-problem-4oae).
 
 ## Contact
 * Huy Bui [Email](williamhuybui@gmail.com)
