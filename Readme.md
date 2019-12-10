@@ -1,4 +1,4 @@
-# Blog: Monty_Hall_simulation
+# Blog: Monty Hall Problem
 
 #### -- Project Status: [Completed]
 
